@@ -1,0 +1,24 @@
+{
+ "episode": 5,
+ "sent": [
+  "Zorg defteri bir kenara koyuyor. Ve ilk sınavın başladığını söylüyor.",
+  "Kapı açılıyor. İçeride, on tane küçük uzaylı çocuk, sıraya girmiş bekliyor. Hepsi çok aç.",
+  "Ortada tek bir ekmek var. Sadece bir tane.",
+  "Zorg, Hasan Usta'ya dönüyor: Bu ekmeği, nasıl paylaştırırsın?",
+  "Çocukların gözleri, ekmeğe ve Hasan Usta'ya bakıyor. En küçükleri, hiç ses çıkarmıyor.",
+  "Hasan Usta ekmeği eline alıyor. Ve bir şey fark ediyor: Ekmek on parçaya bölünürse, kimsenin karnı doymayacak.",
+  "Ama ona sadece iki kural verilmiş. Herkes aynı anda yiyecek, ve hiç kimse kavga etmeyecek.",
+  "Peki sence Hasan Usta ne yapmalı? A, eşit böl. B, önce küçüklere ver. Yorumlara yaz, en çok seçilen cevapla altıncı bölüm geliyor."
+ ],
+ "groups": [[0, 1], [2], [3], [4], [5], [6], [7]],
+ "tail": 2.2,
+ "next": "6.",
+ "sfx": [
+  {"t": "rustle", "s": 0, "o": 0.5, "v": 0.3}, {"t": "creak", "s": 0, "o": 4.5, "v": 0.3}, {"t": "noise", "s": 1, "o": 1.0, "dur": 2.5, "lo": 80, "hi": 400, "v": 0.25},
+  {"t": "dun", "s": 2, "o": 0.2, "v": 0.5}, {"t": "ding", "s": 2, "o": 1.2, "f": 1046, "v": 0.3},
+  {"t": "blip", "s": 3, "o": 0.5, "v": 0.3}, {"t": "noise", "s": 4, "o": 0.5, "dur": 2.5, "lo": 80, "hi": 350, "v": 0.22},
+  {"t": "rustle", "s": 5, "o": 1.0, "v": 0.4}, {"t": "pop", "s": 5, "o": 3.0, "v": 0.3}, {"t": "pop", "s": 5, "o": 3.2, "v": 0.3}, {"t": "pop", "s": 5, "o": 3.4, "v": 0.3},
+  {"t": "ding", "s": 6, "o": 1.0, "f": 1318, "v": 0.35}, {"t": "ding", "s": 6, "o": 3.6, "f": 1568, "v": 0.35},
+  {"t": "pop", "w": [7, "A,"], "v": 0.5}, {"t": "pop", "w": [7, "B,"], "v": 0.5}, {"t": "ding", "at": "end", "f": 1046, "v": 0.35}
+ ]
+}

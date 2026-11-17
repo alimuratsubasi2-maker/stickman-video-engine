@@ -1,0 +1,24 @@
+{
+ "episode": 3,
+ "sent": [
+  "Işın, Hasan Usta'yı yavaşça yukarı çekiyor. Aşağıda şehir küçülüyor, yukarıda dev gemi büyüyor.",
+  "Kapı açılıyor. İçerisi sessiz, parlak ve tuhaf bir şekilde, çok temiz.",
+  "Karşısında, uzun boylu, yeşil, kocaman gözlü bir komutan duruyor. Adı Zorg.",
+  "Zorg, küçük bir cihaz çıkarıyor. Sonra tek bir soru soruyor: Neden birbirinizle savaşıyorsunuz?",
+  "Hasan Usta düşünüyor. Doğruyu söylerse, insanlık kötü görünebilir. Güzel bir şey söylerse, bu yalan olabilir.",
+  "Çünkü cihazın ışığı yeşil yanıyor. Ve bu cihaz, yalan söyleyeni hemen anlıyor.",
+  "Hasan Usta derin bir nefes alıyor. Ve ağzını açıyor.",
+  "Peki sence Hasan Usta ne cevap vermeli? A, dürüst olsun. B, güzel göstersin. Yorumlara yaz, en çok seçilen cevapla dördüncü bölüm geliyor."
+ ],
+ "groups": [[0, 1], [2], [3], [4], [5], [6], [7]],
+ "tail": 2.2,
+ "next": "4.",
+ "sfx": [
+  {"t": "whoosh", "s": 0, "o": 0.3, "d": 3.0, "v": 0.35}, {"t": "noise", "s": 0, "o": 0.0, "dur": 4.0, "lo": 150, "hi": 700, "v": 0.2},
+  {"t": "creak", "s": 0, "o": 5.2, "v": 0.3}, {"t": "ding", "s": 1, "o": 0.4, "f": 1318, "v": 0.3},
+  {"t": "dun", "s": 2, "o": 0.3, "v": 0.6}, {"t": "blip", "s": 3, "o": 0.4, "v": 0.3}, {"t": "dun", "s": 3, "o": 2.0, "v": 0.5},
+  {"t": "scratch", "s": 4, "o": 1.0, "v": 0.3}, {"t": "ding", "s": 5, "o": 0.6, "f": 1568, "v": 0.4}, {"t": "noise", "s": 5, "o": 0.4, "dur": 2.0, "lo": 1000, "hi": 5000, "v": 0.08},
+  {"t": "thud", "s": 6, "o": 0.4, "v": 0.45}, {"t": "thud", "s": 6, "o": 1.3, "v": 0.45}, {"t": "thud", "s": 6, "o": 2.2, "v": 0.45},
+  {"t": "pop", "w": [7, "A,"], "v": 0.5}, {"t": "pop", "w": [7, "B,"], "v": 0.5}, {"t": "ding", "at": "end", "f": 1046, "v": 0.35}
+ ]
+}

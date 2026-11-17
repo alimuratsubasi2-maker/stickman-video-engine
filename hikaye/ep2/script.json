@@ -1,0 +1,25 @@
+{
+ "episode": 2,
+ "sent": [
+  "Yirmi dört saatin on dördüncü saati. Dünya, ilk kez tek bir şey için oy veriyor.",
+  "Sonuç belli oluyor. Dünya adına konuşacak kişi, Birleşmiş Milletler Başkanı. Işın onu gemiye çekiyor.",
+  "Ben Kerem. Gece kuryesiyim. O gece, bir siparişi teslim ederken, tam o binanın önünde kaldım.",
+  "Kerem, motorunun yanında, hiçbir şey yapamadan bekliyor. Herkes gibi, sadece gökyüzüne bakıyor.",
+  "Dakikalar geçiyor. Sonra ışın geri iniyor. Başkan dışarı çıkıyor. Yüzü bembeyaz, elleri titriyor.",
+  "Mikrofonlar uzatılıyor. Başkan zor nefes alarak tek cümle söylüyor: Bu bir istila değil. Bu bir sınav.",
+  "Ve bir ışık, kalabalığın içinden süzülüp, tam bana vuruyor. Ben mi?",
+  "Peki Kerem ne yapmalı? A, ışığa doğru yürüsün. B, motoruna atlayıp kaçsın. Yorumlara yaz, en çok seçilen cevapla üçüncü bölüm geliyor."
+ ],
+ "groups": [[0], [1], [2, 3], [4], [5, 6], [7]],
+ "tail": 2.2,
+ "next": "3.",
+ "sfx": [
+  {"t": "pop", "s": 0, "o": 2.2, "v": 0.35}, {"t": "pop", "s": 0, "o": 3.4, "v": 0.35},
+  {"t": "ding", "s": 1, "o": 2.2, "f": 1200, "v": 0.3}, {"t": "whoosh", "s": 1, "o": 4.0, "d": 2.5, "v": 0.35},
+  {"t": "noise", "s": 2, "o": 0.0, "dur": 3.0, "lo": 200, "hi": 900, "v": 0.08}, {"t": "dun", "s": 3, "o": 0.4, "v": 0.5},
+  {"t": "whoosh", "s": 4, "o": 0.3, "d": 2.0, "v": 0.3}, {"t": "thud", "s": 4, "o": 3.6, "v": 0.4},
+  {"t": "pop", "s": 5, "o": 0.3, "v": 0.3}, {"t": "pop", "s": 5, "o": 0.5, "v": 0.3}, {"t": "pop", "s": 5, "o": 0.7, "v": 0.3}, {"t": "dun", "s": 5, "o": 5.0, "v": 0.6},
+  {"t": "ding", "s": 6, "o": 0.3, "f": 1568, "v": 0.4}, {"t": "thud", "s": 6, "o": 1.6, "v": 0.5},
+  {"t": "pop", "w": [7, "A,"], "v": 0.5}, {"t": "pop", "w": [7, "B,"], "v": 0.5}, {"t": "ding", "at": "end", "f": 1046, "v": 0.35}
+ ]
+}

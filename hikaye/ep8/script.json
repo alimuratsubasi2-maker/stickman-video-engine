@@ -1,0 +1,24 @@
+{
+ "episode": 8,
+ "sent": [
+  "Hasan Usta karar veriyor. Enerji hücresini, çocuğun yanına koyuyor.",
+  "Hücre parlıyor. Çocuğun solgun yüzüne, yavaş yavaş renk geliyor.",
+  "Gözlerini açıyor. Hasan Usta'ya bakıyor. Ve ilk kez, bir kelime söylüyor: Teşekkürler.",
+  "Zorg olduğu yerde donup kalıyor. Çünkü bu çocuk, onun kızı.",
+  "Sessizce anlatmaya başlıyor. Gezegenleri yok olmuş. Binlerce yıldır, gemilerde yaşıyorlar.",
+  "Yeni bir yuva arıyorlar. Ama bu yuvayı, kimsenin canını yakmadan bulmak istiyorlar.",
+  "Bu yüzden bütün sınavlar. Ama Zorg, sınavların asıl amacını, henüz söylemiyor.",
+  "Peki sence Hasan Usta bu gerçeği Dünya'ya söylemeli mi? A, hemen söylesin. B, bir süre saklasın. Yorumlara yaz, en çok seçilen cevapla dokuzuncu bölüm geliyor."
+ ],
+ "groups": [[0, 1], [2], [3], [4], [5], [6], [7]],
+ "tail": 2.2,
+ "next": "9.",
+ "sfx": [
+  {"t": "rustle", "s": 0, "o": 1.0, "v": 0.3}, {"t": "ding", "s": 1, "o": 0.3, "f": 1318, "v": 0.35}, {"t": "jingle", "s": 1, "o": 1.8, "v": 0.3},
+  {"t": "blip", "s": 2, "o": 0.5, "v": 0.3}, {"t": "ding", "s": 2, "o": 3.2, "f": 1568, "v": 0.35},
+  {"t": "dun", "s": 3, "o": 0.3, "v": 0.6}, {"t": "pop", "s": 3, "o": 2.5, "v": 0.3},
+  {"t": "thud", "s": 4, "o": 1.0, "v": 0.7}, {"t": "whoosh", "s": 4, "o": 1.1, "d": 2.0, "v": 0.4}, {"t": "noise", "s": 4, "o": 3.5, "dur": 3.0, "lo": 60, "hi": 250, "v": 0.2},
+  {"t": "ding", "s": 5, "o": 3.0, "f": 1046, "v": 0.3}, {"t": "dun", "s": 6, "o": 3.0, "v": 0.5},
+  {"t": "pop", "w": [7, "A,"], "v": 0.5}, {"t": "pop", "w": [7, "B,"], "v": 0.5}, {"t": "ding", "at": "end", "f": 1046, "v": 0.35}
+ ]
+}

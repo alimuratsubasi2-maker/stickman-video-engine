@@ -1,0 +1,25 @@
+{
+ "episode": 2,
+ "sent": [
+  "Yirmi dört saatin on dördüncü saati. Dünya, ilk kez tek bir şey için oy veriyor.",
+  "Telefonlarda, televizyonlarda, radyolarda aynı soru var: Dünya adına konuşacak kişi kim olsun?",
+  "Liderler adaylarını yazıyor. Ünlüler adaylarını yazıyor. Herkes bir isim öneriyor.",
+  "Sonuçlar açıklanınca, bir sessizlik oluyor.",
+  "Birinci sırada hiçbir lider yok. Birinci sırada, mahallenin simitçisi, Hasan Usta var.",
+  "Çünkü herkes aynı şeyi düşünmüş: Dünyanın kaderini, hiç kimseye yalan söylememiş birine verelim.",
+  "Hasan Usta radyoda kendi adını duyuyor. Ve elindeki simit tepsisi, yere düşüyor.",
+  "Peki Hasan Usta, uzaylılarla konuşmaya giderken yanına ne almalı? A, simit tepsisini. B, elleri boş gitsin. Yorumlara yaz, en çok seçilen cevapla üçüncü bölüm geliyor."
+ ],
+ "groups": [[0, 1], [2], [3, 4], [5], [6], [7]],
+ "tail": 2.2,
+ "next": "3.",
+ "sfx": [
+  {"t": "pop", "s": 0, "o": 2.2, "v": 0.35}, {"t": "pop", "s": 0, "o": 3.4, "v": 0.35}, {"t": "pop", "s": 1, "o": 0.6, "v": 0.35}, {"t": "pop", "s": 1, "o": 1.8, "v": 0.35}, {"t": "pop", "s": 1, "o": 3.0, "v": 0.35},
+  {"t": "ding", "s": 0, "o": 0.9, "f": 1200, "v": 0.3},
+  {"t": "whoosh", "s": 2, "o": 0.2, "v": 0.3}, {"t": "scratch", "s": 2, "o": 1.5, "v": 0.3},
+  {"t": "dun", "s": 3, "o": 0.3, "v": 0.6}, {"t": "whoosh", "s": 4, "o": 0.2, "v": 0.5}, {"t": "ding", "s": 4, "o": 1.4, "f": 1568, "v": 0.45},
+  {"t": "thud", "s": 5, "o": 4.2, "v": 0.5}, {"t": "ding", "s": 5, "o": 4.4, "f": 1318, "v": 0.3},
+  {"t": "noise", "s": 6, "o": 0.0, "dur": 2.6, "v": 0.14}, {"t": "thud", "s": 6, "o": 4.2, "v": 0.7}, {"t": "boing", "s": 6, "o": 4.6, "v": 0.4},
+  {"t": "pop", "w": [7, "A,"], "v": 0.5}, {"t": "pop", "w": [7, "B,"], "v": 0.5}, {"t": "ding", "at": "end", "f": 1046, "v": 0.35}
+ ]
+}

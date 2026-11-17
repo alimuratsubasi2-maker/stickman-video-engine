@@ -1,0 +1,24 @@
+{
+ "episode": 6,
+ "sent": [
+  "Hasan Usta ekmeği paylaştırıyor. Çocuklar, gülümseyerek yiyor.",
+  "Zorg bir kez başını sallıyor. Ama sınav bitmedi. İkinci sınav, yalanın sınavı.",
+  "Zorg cihazı, Hasan Usta'nın önüne koyuyor. Cihazın ışığı, yalan söyleyene kırmızı yanıyor.",
+  "Karşılarına başka bir uzaylı çıkıyor. Bu, gemiyi yöneten konseyin başkanı.",
+  "Başkan sert bir sesle soruyor: Dünyalıların hepsi yalancıdır. Bunu kabul ediyor musun?",
+  "Hasan Usta duruyor. Evet derse, bütün insanlık yalancı ilan edilecek. Hayır derse, cihaz bunu yalan sayabilir.",
+  "Çünkü Hasan Usta, hayatı boyunca hiç yalan söylemedi. Ama şimdi, tek bir küçük yalan, herkesi kurtarabilir.",
+  "Peki sence Hasan Usta ne yapmalı? A, yalan söylesin. B, doğruyu söylesin. Yorumlara yaz, en çok seçilen cevapla yedinci bölüm geliyor."
+ ],
+ "groups": [[0, 1], [2], [3, 4], [5], [6], [7]],
+ "tail": 2.2,
+ "next": "7.",
+ "sfx": [
+  {"t": "pop", "s": 0, "o": 1.0, "v": 0.3}, {"t": "pop", "s": 0, "o": 2.0, "v": 0.3}, {"t": "dun", "s": 1, "o": 1.4, "v": 0.5}, {"t": "ding", "s": 1, "o": 2.6, "f": 1100, "v": 0.3},
+  {"t": "blip", "s": 2, "o": 0.5, "v": 0.3}, {"t": "noise", "s": 2, "o": 3.0, "dur": 1.5, "lo": 1500, "hi": 6000, "v": 0.08},
+  {"t": "whoosh", "s": 3, "o": 0.3, "v": 0.35}, {"t": "dun", "s": 3, "o": 1.8, "v": 0.7}, {"t": "dun", "s": 3, "o": 3.6, "v": 0.5},
+  {"t": "scratch", "s": 4, "o": 1.0, "v": 0.25}, {"t": "dun", "s": 4, "o": 2.5, "v": 0.5},
+  {"t": "ding", "s": 5, "o": 4.0, "f": 1568, "v": 0.3}, {"t": "thud", "s": 5, "o": 4.4, "v": 0.4},
+  {"t": "pop", "w": [7, "A,"], "v": 0.5}, {"t": "pop", "w": [7, "B,"], "v": 0.5}, {"t": "ding", "at": "end", "f": 1046, "v": 0.35}
+ ]
+}

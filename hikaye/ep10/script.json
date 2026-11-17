@@ -1,0 +1,24 @@
+{
+ "episode": 10,
+ "sent": [
+  "Hasan Usta mikrofona konuşuyor. Sesi, bütün dünyada yankılanıyor.",
+  "Sakin olun. Onlar bize zarar vermeye gelmedi. Sadece, bir ev arıyorlar.",
+  "Ordular duruyor. Füzeler yavaşça aşağı iniyor. Yeryüzünde ilk kez, herkes aynı anda derin bir nefes alıyor.",
+  "Zorg, Hasan Usta'ya dönüyor. Gözleri ışıldıyor. Ve bir not uzatıyor: Teşekkürler. Aradığımızı bulduk.",
+  "Sınavlar bir test değilmiş. Bir davetmiş. İyi komşu olmak isteyen bir gezegene, bir davet.",
+  "Dünya bu davete evet diyor. Ortak bir mahalle kuruluyor. Ve simitler, bu kez uzay istasyonunda satılıyor.",
+  "Ama o gece, mezarlığın yanında, toprak hafifçe çatlıyor. Ve yeşil bir ışık, yavaşça yükseliyor.",
+  "Peki sence yeni sezonun konusu ne olsun? A, ya ölüler ayağa kalksaydı? B, başka bir konu. Yorumlara yaz, en çok seçilen cevapla yeni sezon başlıyor."
+ ],
+ "groups": [[0], [1], [2], [3], [4], [5], [6], [7]],
+ "tail": 2.4,
+ "next": "SEZON",
+ "sfx": [
+  {"t": "blip", "s": 0, "o": 0.3, "v": 0.25}, {"t": "noise", "s": 0, "o": 0.0, "dur": 3.0, "lo": 600, "hi": 3000, "v": 0.06},
+  {"t": "ding", "s": 1, "o": 3.0, "f": 1046, "v": 0.3}, {"t": "thud", "s": 2, "o": 1.5, "v": 0.5}, {"t": "whoosh", "s": 2, "o": 3.0, "d": 3.0, "v": 0.3},
+  {"t": "ding", "s": 3, "o": 1.0, "f": 1318, "v": 0.4}, {"t": "jingle", "s": 3, "o": 4.5, "v": 0.35},
+  {"t": "pop", "s": 4, "o": 1.0, "v": 0.3}, {"t": "pop", "s": 4, "o": 2.0, "v": 0.3}, {"t": "pop", "s": 4, "o": 3.0, "v": 0.3}, {"t": "ding", "s": 4, "o": 4.5, "f": 1568, "v": 0.4},
+  {"t": "jingle", "s": 5, "o": 3.0, "v": 0.3}, {"t": "cricket", "s": 6, "o": 0.2, "v": 0.2}, {"t": "dun", "s": 6, "o": 3.0, "v": 0.6}, {"t": "noise", "s": 6, "o": 3.5, "dur": 3.0, "lo": 60, "hi": 220, "v": 0.25},
+  {"t": "pop", "w": [7, "A,"], "v": 0.5}, {"t": "pop", "w": [7, "B,"], "v": 0.5}, {"t": "ding", "at": "end", "f": 1046, "v": 0.35}
+ ]
+}

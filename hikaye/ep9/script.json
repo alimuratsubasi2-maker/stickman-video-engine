@@ -1,0 +1,24 @@
+{
+ "episode": 9,
+ "sent": [
+  "Aşağıda, Dünya'da, yirmi dört saat doluyor. Ve kimse Hasan Usta'dan haber alamıyor.",
+  "Liderler toplanıyor. Ordular alarma geçiyor. Füzeler, gökyüzüne çevriliyor.",
+  "Çünkü herkes aynı şeyi düşünüyor: Temsilcimiz geri dönmedi. Belki de onu esir aldılar.",
+  "Gemideki Hasan Usta, bunu ekrandan görüyor. Eğer saldırı başlarsa, her şey biter.",
+  "Zorg ona küçük bir radyo uzatıyor. Bütün dünyaya yayın yapabilen bir radyo.",
+  "Ama bir sorun var. Hasan Usta'nın sadece bir dakikası var. Ve bu bir dakikada, herkesi sakinleştirmesi gerekiyor.",
+  "Hasan Usta mikrofonu eline alıyor. Derin bir nefes alıyor.",
+  "Peki sence Hasan Usta ne yapmalı? A, radyodan seslensin. B, gemiden bir uyarı göndersin. Yorumlara yaz, en çok seçilen cevapla onuncu ve son bölüm geliyor."
+ ],
+ "groups": [[0, 1], [2], [3], [4], [5], [6], [7]],
+ "tail": 2.2,
+ "next": "10.",
+ "sfx": [
+  {"t": "noise", "s": 0, "o": 0.0, "dur": 7.0, "lo": 300, "hi": 1500, "v": 0.15}, {"t": "dun", "s": 0, "o": 4.5, "v": 0.5},
+  {"t": "thud", "s": 1, "o": 2.5, "v": 0.5}, {"t": "pop", "s": 2, "o": 1.0, "v": 0.3}, {"t": "blip", "s": 2, "o": 3.0, "v": 0.3},
+  {"t": "dun", "s": 3, "o": 2.0, "v": 0.6}, {"t": "ding", "s": 4, "o": 2.5, "f": 1400, "v": 0.3},
+  {"t": "step", "s": 5, "o": 3.0, "v": 0.3}, {"t": "blip", "s": 5, "o": 0.5, "v": 0.2}, {"t": "blip", "s": 5, "o": 1.5, "v": 0.2}, {"t": "blip", "s": 5, "o": 2.5, "v": 0.2},
+  {"t": "thud", "s": 6, "o": 0.4, "v": 0.45}, {"t": "thud", "s": 6, "o": 1.3, "v": 0.45}, {"t": "thud", "s": 6, "o": 2.2, "v": 0.45},
+  {"t": "pop", "w": [7, "A,"], "v": 0.5}, {"t": "pop", "w": [7, "B,"], "v": 0.5}, {"t": "ding", "at": "end", "f": 1046, "v": 0.35}
+ ]
+}

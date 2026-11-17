@@ -1,0 +1,24 @@
+{
+ "episode": 7,
+ "sent": [
+  "Hasan Usta cevabını veriyor. Cihazın ışığı bir an titriyor, ve sönüyor.",
+  "Tam o sırada gemi sarsılıyor. Alarm sesleri bütün koridorlarda yankılanıyor.",
+  "Zorg koşarak içeri giriyor. Geminin elinde sadece tek bir enerji hücresi kalmış.",
+  "Bu hücre ya Hasan Usta'yı Dünya'ya geri götürebilir, ya da hasta bir uzaylı çocuğu iyileştirebilir.",
+  "Çocuk yatakta, çok küçük ve çok solgun. Gözlerini zorlukla açıyor, ve Hasan Usta'ya bakıyor.",
+  "Hasan Usta'nın bir evi var. Ailesi var. Bir tepsi simidi, ve ona yıllardır güvenen koca bir mahallesi var.",
+  "Üçüncü sınav fedakârlığın sınavı. Ve bu sınavda, doğru cevap yok. Sadece bir seçim var.",
+  "Peki sence Hasan Usta ne yapmalı? A, eve dönsün. B, çocuğu seçsin. Yorumlara yaz, en çok seçilen cevapla sekizinci bölüm geliyor."
+ ],
+ "groups": [[0, 1], [2], [3], [4], [5], [6], [7]],
+ "tail": 2.2,
+ "next": "8.",
+ "sfx": [
+  {"t": "dun", "s": 0, "o": 2.0, "v": 0.6}, {"t": "noise", "s": 1, "o": 0.3, "dur": 4.0, "lo": 400, "hi": 2500, "v": 0.18}, {"t": "bip", "s": 1, "o": 0.3, "v": 0.3},
+  {"t": "step", "s": 2, "o": 0.2, "v": 0.5}, {"t": "step", "s": 2, "o": 0.5, "v": 0.5}, {"t": "step", "s": 2, "o": 0.8, "v": 0.5}, {"t": "ding", "s": 2, "o": 2.6, "f": 1400, "v": 0.3},
+  {"t": "blip", "s": 3, "o": 4.0, "v": 0.3}, {"t": "blip", "s": 4, "o": 0.5, "v": 0.25}, {"t": "blip", "s": 4, "o": 1.5, "v": 0.25}, {"t": "blip", "s": 4, "o": 2.5, "v": 0.25},
+  {"t": "pop", "s": 5, "o": 0.6, "v": 0.3}, {"t": "pop", "s": 5, "o": 3.0, "v": 0.3}, {"t": "pop", "s": 5, "o": 5.3, "v": 0.3},
+  {"t": "dun", "s": 6, "o": 3.2, "v": 0.6},
+  {"t": "pop", "w": [7, "A,"], "v": 0.5}, {"t": "pop", "w": [7, "B,"], "v": 0.5}, {"t": "ding", "at": "end", "f": 1046, "v": 0.35}
+ ]
+}
